@@ -1,0 +1,21 @@
+{
+  "data" : {
+    "lookups" : [
+      "trait"
+    ],
+    "name" : "Traits",
+    "lang" : "tl",
+    "exotic" : false,
+    "id" : "Traits",
+    "values" : [
+      {
+        "value" : "Magandang umaga, tanghali at gabi sa inyo OUH family!"
+      },
+      {
+        "value" : "Oy, susulat ka ha? Balik ka agad. Maghihintay kami dito. Mag- promise ka."
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

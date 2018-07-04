@@ -1,0 +1,21 @@
+{
+  "data" : {
+    "lookups" : [
+      "trait"
+    ],
+    "name" : "greetings",
+    "lang" : "tl",
+    "exotic" : false,
+    "id" : "greetings",
+    "values" : [
+      {
+        "value" : "Hello OUH family!"
+      },
+      {
+        "value" : "Kamustasa?"
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

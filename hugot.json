@@ -1,0 +1,21 @@
+{
+  "data" : {
+    "lookups" : [
+      "trait"
+    ],
+    "name" : "hugot",
+    "lang" : "tl",
+    "exotic" : false,
+    "id" : "hugot",
+    "values" : [
+      {
+        "value" : "Masakit ma-fall lalo na kung di ka naman kayang saluhin."
+      },
+      {
+        "value" : "Some people are worth melting for."
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

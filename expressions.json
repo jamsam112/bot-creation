@@ -1,0 +1,40 @@
+{
+  "data" : [
+    {
+      "text" : "Ang cute mo naman",
+      "entities" : [
+        {
+          "entity" : "Traits",
+          "value" : "\"Magandang umaga, tanghali at gabi sa inyo OUH family!\""
+        },
+        {
+          "entity" : "bully",
+          "value" : "\"Cute mo din sarap mo tirisin.\""
+        },
+        {
+          "entity" : "greetings",
+          "value" : "\"Kamustasa?\""
+        },
+        {
+          "entity" : "hugot",
+          "value" : "\"Some people are worth melting for.\""
+        }
+      ]
+    },
+    {
+      "text" : "Brb",
+      "entities" : [
+        {
+          "entity" : "Traits",
+          "value" : "\"Oy, susulat ka ha? Balik ka agad. Maghihintay kami dito. Mag- promise ka.\""
+        }
+      ]
+    },
+    {
+      "text" : "bully"
+    },
+    {
+      "text" : "hugot"
+    }
+  ]
+}

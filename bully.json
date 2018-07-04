@@ -1,0 +1,24 @@
+{
+  "data" : {
+    "lookups" : [
+      "trait"
+    ],
+    "name" : "bully",
+    "lang" : "tl",
+    "exotic" : false,
+    "id" : "bully",
+    "values" : [
+      {
+        "value" : "Cute mo din sarap mo tirisin.",
+        "expressions" : [
+          "polite"
+        ]
+      },
+      {
+        "value" : "Salamat! Cute ako kasi maliit ako, wala namang cute na malaki diba?"
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

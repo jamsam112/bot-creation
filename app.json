@@ -1,0 +1,9 @@
+{
+  "version" : 20160513,
+  "zip-command" : "zip Alexa.zip Alexa/app.json Alexa/entities/*.json Alexa/expressions.json",
+  "data" : {
+    "name" : "Alexa",
+    "description" : "Axel's Love",
+    "lang" : "tl"
+  }
+}
